@@ -1,5 +1,4 @@
 <?php
-
 return [
     'sales'=>'продажи',
     'orders'=>'заказы',

@@ -26,4 +26,13 @@ return [
     'permissions'=>'разрешения',
     'delivery'=>'доставка',
     'shipping'=>'перевозка',
+    'advanced' => 'расширенный',
+    'purchase' => 'покупка',
+    'inventory' => 'инвентарь',
+    'wishlist' => 'лист желаний',
+    'persistent' => 'стойкий',
+    'payment' => 'оплата',
+    'extension' => 'расширение',
+    'improved' => 'улучшенный',
+    'checkout' => 'проверка',
 ];
